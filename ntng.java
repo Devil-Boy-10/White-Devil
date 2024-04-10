@@ -29,6 +29,5 @@ public class ntng
               default:
                          System.out.println(" Invalid Option ");
            }
-        sc.close();
        }
 }
