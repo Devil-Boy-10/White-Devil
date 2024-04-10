@@ -9,7 +9,7 @@ public class White_Devil
          if(n == "Hi")
            System.out.println("Hello");
          else
-           System.out.println(" 😈 ");
+           System.out.println(" Jst for fun 😜 ");
          sc.close();
      }
 }
