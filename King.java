@@ -4,7 +4,7 @@ public class White_Devil
     public static void main(String args[])
      {
          Scanner sc = new Scanner(System.in);
-         System.out.println("/tEnter Hi ");
+         System.out.println("\t Enter Hi ");
          String n = sc.nextLine();
          if(n == "Hi")
            System.out.println("Hello");
